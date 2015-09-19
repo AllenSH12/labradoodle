@@ -8,6 +8,7 @@ This repo hopes to be a collection of clean environments useful in testing vario
 ## Environments
 Here are the currently available environments:
 - Webpack
+- Webpack w/ Babel
 
 ## Getting Started
 There may be differences in setup between environments (once there is more than one environment) so these instructions are a bit generic.
