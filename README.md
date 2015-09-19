@@ -9,6 +9,7 @@ This repo hopes to be a collection of clean environments useful in testing vario
 Here are the currently available environments:
 - Webpack
 - Webpack w/ Babel
+- Webpack w/ Babel & CSSModules
 - Webpack w/ React (via Babel, includes JSX)
 
 ## Getting Started
