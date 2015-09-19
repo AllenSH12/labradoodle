@@ -11,6 +11,7 @@ Here are the currently available environments:
 - Webpack w/ Babel
 - Webpack w/ Babel & CSSModules
 - Webpack w/ React (via Babel, includes JSX)
+- Webpack w/ React & CSSModules (via Babel, includes JSX)
 
 ## Getting Started
 There may be differences in setup between environments (once there is more than one environment) so these instructions are a bit generic.
@@ -24,10 +25,9 @@ $ cd labradoodle
 $ cd $ENVIRONMENT_TO_TEST # i.e. webpack
 $ $INSTALL_ENVIROMENT_DEPENDENCIES # i.e. npm install
 $ $RUN_ENVIRONMENT_PREVIEW # i.e. npm start
-
 ```
 
 ## Roadmap
 
 Environments to add:
-- Webpack w/ JSX and CSSModules
+- ???
