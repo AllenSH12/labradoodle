@@ -9,6 +9,7 @@ This repo hopes to be a collection of clean environments useful in testing vario
 Here are the currently available environments:
 - Webpack
 - Webpack w/ Babel
+- Webpack w/ React (via Babel, includes JSX)
 
 ## Getting Started
 There may be differences in setup between environments (once there is more than one environment) so these instructions are a bit generic.
@@ -28,5 +29,4 @@ $ $RUN_ENVIRONMENT_PREVIEW # i.e. npm start
 ## Roadmap
 
 Environments to add:
-- Webpack w/ JSX
 - Webpack w/ JSX and CSSModules
