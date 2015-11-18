@@ -7,6 +7,7 @@ This repo hopes to be a collection of clean environments useful in testing vario
 
 ## Environments
 Here are the currently available environments:
+- Ionic
 - Webpack
 - Webpack w/ Babel
 - Webpack w/ Babel & CSSModules
